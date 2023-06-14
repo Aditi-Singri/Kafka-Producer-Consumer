@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8WI26AC2pcNcWcVJm0bZeOsuD+FjTDhDrbUtu4J/I33ORMQFj9hzQjGbhmBmO9aAHOlkMvqhzC5ErHnrnalkA==",
+  "success": true,
+  "projectFilePath": "C:\\kafka applications\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\confluent.kafka\\2.1.1\\confluent.kafka.2.1.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\librdkafka.redist\\2.1.1\\librdkafka.redist.2.1.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
